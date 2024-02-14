@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Ridha Septiaji, 221511028
-=======
 Nama: Ridha Septiaji  
 NIM: 221511028
->>>>>>> b97431c (Initial Commit)
 ***
 
 # Getting Started with Weather App
