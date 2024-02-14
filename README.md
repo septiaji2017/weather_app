@@ -1,4 +1,3 @@
-Ridha Septiaji, 221511028
 Nama: Ridha Septiaji  
 NIM: 221511028
 ***
